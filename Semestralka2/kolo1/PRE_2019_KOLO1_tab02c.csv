@@ -1,0 +1,79 @@
+1;Bratislavsky kraj;101;Bratislava I;39187;24952;63.67;24931;24836
+1;Bratislavsky kraj;102;Bratislava II;104219;59960;57.53;59933;59639
+1;Bratislavsky kraj;103;Bratislava III;59733;36371;60.88;36355;36202
+1;Bratislavsky kraj;104;Bratislava IV;87654;52700;60.12;52672;52469
+1;Bratislavsky kraj;105;Bratislava V;100898;58381;57.86;58343;58147
+1;Bratislavsky kraj;106;Malacky;61170;31588;51.63;31582;31425
+1;Bratislavsky kraj;107;Pezinok;54304;33651;61.96;33643;33508
+1;Bratislavsky kraj;108;Senec;68813;41533;60.35;41520;41332
+2;Trnavsky kraj;201;Dunajska Streda;101705;34665;34.08;34651;34356
+2;Trnavsky kraj;202;Galanta;78715;34512;43.84;34498;34270
+2;Trnavsky kraj;204;Piestany;53072;28397;53.5;28384;28240
+2;Trnavsky kraj;205;Senica;50209;24936;49.66;24936;24784
+2;Trnavsky kraj;206;Skalica;39012;19943;51.12;19928;19817
+2;Trnavsky kraj;203;Hlohovec;36908;19054;51.62;19044;18916
+2;Trnavsky kraj;207;Trnava;107925;59033;54.69;59009;58698
+3;Trenciansky kraj;301;Banovce nad Bebravou;30002;16100;53.66;16096;16019
+3;Trenciansky kraj;303;Myjava;22278;11398;51.16;11398;11323
+3;Trenciansky kraj;304;Nove Mesto nad Vahom;51365;27802;54.12;27799;27610
+3;Trenciansky kraj;306;Povazska Bystrica;51662;27227;52.7;27222;27040
+3;Trenciansky kraj;308;Puchov;36947;19277;52.17;19271;19152
+3;Trenciansky kraj;305;Partizanske;37648;19383;51.48;19377;19270
+3;Trenciansky kraj;307;Prievidza;112222;59629;53.13;59604;59211
+3;Trenciansky kraj;302;Ilava;48987;25986;53.04;25973;25835
+3;Trenciansky kraj;309;Trencin;93833;52720;56.18;52702;52355
+4;Nitriansky kraj;401;Komarno;84974;23665;27.84;23661;23465
+4;Nitriansky kraj;402;Levice;92987;41006;44.09;41003;40764
+4;Nitriansky kraj;403;Nitra;135864;70015;51.53;70002;69669
+4;Nitriansky kraj;407;Zlate Moravce;34536;17955;51.98;17951;17843
+4;Nitriansky kraj;404;Nove Zamky;117262;47668;40.65;47659;47395
+4;Nitriansky kraj;405;Sala;42856;17624;41.12;17617;17524
+4;Nitriansky kraj;406;Topolcany;59823;29988;50.12;29984;29815
+5;Zilinsky kraj;502;Cadca;72987;33978;46.55;33973;33756
+5;Zilinsky kraj;503;Dolny Kubin;31400;17558;55.91;17550;17452
+5;Zilinsky kraj;505;Liptovsky Mikulas;61172;33067;54.05;33064;32848
+5;Zilinsky kraj;506;Martin;78588;43275;55.06;43270;43015
+5;Zilinsky kraj;509;Turcianske Teplice;13619;7375;54.15;7375;7331
+5;Zilinsky kraj;507;Namestovo;46005;24128;52.44;24121;23967
+5;Zilinsky kraj;510;Tvrdosin;28265;16331;57.77;16325;16195
+5;Zilinsky kraj;508;Ruzomberok;47451;26145;55.09;26125;25944
+5;Zilinsky kraj;501;Bytca;25066;12629;50.38;12627;12549
+5;Zilinsky kraj;504;Kysucke Nove Mesto;26740;14288;53.43;14281;14183
+5;Zilinsky kraj;511;Zilina;131245;72920;55.56;72905;72537
+6;Banskobystricky kraj;601;Banska Bystrica;91492;50555;55.25;50536;50271
+6;Banskobystricky kraj;603;Brezno;49941;22943;45.94;22936;22764
+6;Banskobystricky kraj;606;Lucenec;57531;21321;37.06;21317;21151
+6;Banskobystricky kraj;607;Poltar;17408;7960;45.72;7957;7899
+6;Banskobystricky kraj;608;Revuca;30705;10583;34.46;10583;10479
+6;Banskobystricky kraj;609;Rimavska Sobota;64251;21671;33.72;21670;21423
+6;Banskobystricky kraj;610;Velky Krtis;35225;14084;39.98;14081;13967
+6;Banskobystricky kraj;604;Detva;26323;12684;48.18;12684;12607
+6;Banskobystricky kraj;605;Krupina;17836;9439;52.92;9431;9361
+6;Banskobystricky kraj;611;Zvolen;55618;29270;52.62;29265;29098
+6;Banskobystricky kraj;602;Banska Stiavnica;13214;6762;51.17;6762;6726
+6;Banskobystricky kraj;612;Zarnovica;21308;10798;50.67;10787;10705
+6;Banskobystricky kraj;613;Ziar nad Hronom;37923;19387;51.12;19377;19267
+7;Presovsky kraj;701;Bardejov;59910;28536;47.63;28527;28382
+7;Presovsky kraj;702;Humenne;50160;22381;44.61;22378;22219
+7;Presovsky kraj;705;Medzilaborce;9265;3810;41.12;3810;3774
+7;Presovsky kraj;709;Snina;29508;11195;37.93;11190;11136
+7;Presovsky kraj;703;Kezmarok;52474;22579;43.02;22575;22403
+7;Presovsky kraj;704;Levoca;25706;11625;45.22;11623;11551
+7;Presovsky kraj;706;Poprad;84173;42696;50.72;42679;42434
+7;Presovsky kraj;707;Presov;133786;68121;50.91;68108;67741
+7;Presovsky kraj;708;Sabinov;43703;19896;45.52;19894;19719
+7;Presovsky kraj;710;Stara Lubovna;39869;17718;44.44;17713;17575
+7;Presovsky kraj;711;Stropkov;16141;7395;45.81;7395;7336
+7;Presovsky kraj;712;Svidnik;25789;11655;45.19;11655;11591
+7;Presovsky kraj;713;Vranov nad Toplou;60693;24673;40.65;24664;24510
+8;Kosicky kraj;802;Kosice I;54540;27548;50.5;27541;27403
+8;Kosicky kraj;803;Kosice II;65197;30123;46.2;30113;29977
+8;Kosicky kraj;804;Kosice III;23991;10956;45.66;10951;10891
+8;Kosicky kraj;805;Kosice IV;47660;23514;49.33;23509;23410
+8;Kosicky kraj;806;Kosice - okolie;96611;41016;42.45;41002;40680
+8;Kosicky kraj;807;Michalovce;86702;32803;37.83;32800;32574
+8;Kosicky kraj;809;Sobrance;17913;7700;42.98;7699;7658
+8;Kosicky kraj;808;Roznava;47830;18027;37.68;18025;17886
+8;Kosicky kraj;801;Gelnica;23915;9225;38.57;9221;9161
+8;Kosicky kraj;810;Spisska Nova Ves;73532;31943;43.44;31942;31752
+8;Kosicky kraj;811;Trebisov;81882;27454;33.52;27448;27177

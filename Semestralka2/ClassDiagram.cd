@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Area" Collapsed="true">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAEAAAAACAQCAAAAEAAAAAAAAAUAAAAAhAAAAAAEA=</HashCode>
+      <FileName>Area.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Filter&lt;T, O&gt;" Collapsed="true">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Filter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Filter_fi&lt;T, O&gt;" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQgAAAAAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Filter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Filter_FI&lt;T, O&gt;" Collapsed="true">
+    <Position X="8.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABQgAAAAAABAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Filter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FilterNazov&lt;O&gt;" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQgAAAAAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Filter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FilterVolici&lt;O&gt;" Collapsed="true">
+    <Position X="7.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABQgAAAAAABAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Filter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FilterUcast&lt;O&gt;" Collapsed="true">
+    <Position X="9.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABQgAAAAAABAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Filter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FilterPrislusnostObce&lt;O&gt;" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQgAAAAAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Filter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FilterMeno&lt;O&gt;" Collapsed="true">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQgAAAAAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Filter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kandidat" Collapsed="true">
+    <Position X="13.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAACQAAAEAABACACAAAAAAIAEAAAAAAAAAAAAhAAA=</HashCode>
+      <FileName>Kandidat.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kraj" Collapsed="true">
+    <Position X="10.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CgAAMgEAACCAQCQAAgEAAAACwAAAUAAAAAhAgAEAgEA=</HashCode>
+      <FileName>Kraj.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kriterium&lt;T, O&gt;" Collapsed="true">
+    <Position X="14" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Kriterium.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KriteriumNazov&lt;O&gt;" Collapsed="true">
+    <Position X="7.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Kriterium.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KriteriumPrislusnost&lt;O&gt;" Collapsed="true">
+    <Position X="16.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAgAAAAQAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Kriterium.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KriteriumVolici&lt;O&gt;" Collapsed="true">
+    <Position X="23" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAQAAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Kriterium.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KriteriumVydaneObalky&lt;O&gt;" Collapsed="true">
+    <Position X="0.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAgAAAAQAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Kriterium.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KriteriumUcast&lt;O&gt;" Collapsed="true">
+    <Position X="9.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAgAAAAQAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Kriterium.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KriteriumOdovzdaneObalky&lt;O&gt;" Collapsed="true">
+    <Position X="18.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAgAAAAQAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Kriterium.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KriteriumOdovzdaneHlasy&lt;O&gt;" Collapsed="true">
+    <Position X="25.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEIAAAAAAAAgAAAAAAAAAAAAAAAAAAgAAAEAAAAAA=</HashCode>
+      <FileName>Kriterium.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KriteriumMeno&lt;O&gt;" Collapsed="true">
+    <Position X="2.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Kriterium.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KriteriumZiskaneHlasy&lt;O&gt;" Collapsed="true">
+    <Position X="11.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAFIAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Kriterium.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KriteriumNajviacHlasov&lt;O&gt;" Collapsed="true">
+    <Position X="20.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEIAAAAAAAAgAAAAAAQAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Kriterium.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KriteriumNajmenejHlasov&lt;O&gt;" Collapsed="true">
+    <Position X="27.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEIAAAAAAAAgAAAAAAQAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Kriterium.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KriteriumNajmensiRozdiel&lt;O&gt;" Collapsed="true">
+    <Position X="5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAARAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Kriterium.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KriteriumHlasyKoalicie&lt;O&gt;" Collapsed="true">
+    <Position X="14" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAgACAAEAgAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Kriterium.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Obec" Collapsed="true">
+    <Position X="12.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CgAAMgFAACCAQCAAAgEAAAFC0AAAUAAAABhggAEAgEA=</HashCode>
+      <FileName>Obec.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Okres" Collapsed="true">
+    <Position X="15" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CgAAMgEAACCAQCAAAgEQAAFCwAAAUAAAAAhAgAEAgEA=</HashCode>
+      <FileName>Okres.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Spravca" Collapsed="true">
+    <Position X="11.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAgAIAAAAFAAAgABAAACQDCAAEAAQEIQAAAQAABAA=</HashCode>
+      <FileName>Spravca.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
